@@ -1,7 +1,7 @@
 config {
   type: "view",
   schema: "pfizer_embase_raw", // Ensure this matches the dataset you restricted the SA to
-  description: "A view created via Dataform using a dedicated SA",
+  description: "A view created via Dataform using a dedicated SA by TF",
   tags: ["reporting"]
 }
 
